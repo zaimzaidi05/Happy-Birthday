@@ -61,7 +61,7 @@
 body {
     background-image: url('Happy Birthday_files/gambar_aisy.jpg');
     background-size: cover;
-    background-position: center 60%;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
