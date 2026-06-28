@@ -59,7 +59,11 @@
 }
 
 body {
-    background-color: #FFDAB9;
+    background-image: url('gambar_aisy.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 img {
